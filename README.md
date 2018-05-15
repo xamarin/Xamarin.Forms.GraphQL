@@ -85,5 +85,5 @@ It’s often useful to query additional, non-displayed and as such a non-bound f
 Other custom controls can register themselves and their source and template properties so they will be handled like ListViews.
 
 # Dependencies
-- depends on XF 3.0.0-pre3
-- NewtonSoft.Json
+- [Xamarin.Forms](https://www.nuget.org/packages/Xamarin.Forms/3.0.0.354232-pre3) (version 3.0.0.pre3 and above)
+- [Newtonsoft.Json](https://www.nuget.org/packages/newtonsoft.json/)
